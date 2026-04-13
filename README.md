@@ -10,4 +10,4 @@ Learning and Practice purpose
 
 # Day 03 : Build RAG pipeline
 
-RAG_ingestion_pipeline_notebook: [notebook](RAG/RAG_Ingestion_pipeline_.ipynb)
+RAG_ingestion_pipeline_notebook: [notebook](RAG/RAG_pipeline.ipynb)
